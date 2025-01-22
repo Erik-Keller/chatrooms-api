@@ -1,0 +1,19 @@
+{
+    "755e6a35-fa5e-48d4-a47f-39cf55018f88": [
+        {
+            "6c301573-3063-445b-b05f-3cdf29b2847c": {
+                "message_id": "2792be2b-12f8-47cd-b274-b9ef6450eaf5",
+                "sender_id": "e8b76653-bcf9-4024-b8cb-ad1381101152",
+                "sender_username": "Joe Mama",
+                "content": "Hello, World!",
+                "send_timestamp": "2025-01-17T12:05:00Z",
+                "edit_timestamp": null,
+                "reactions": {
+                    ":like:": [
+                        "e8b76653-bcf9-4024-b8cb-ad1381101152"
+                    ]
+                }
+            }
+        }
+    ]
+}

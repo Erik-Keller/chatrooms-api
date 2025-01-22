@@ -1,0 +1,56 @@
+{
+    "755e6a35-fa5e-48d4-a47f-39cf55018f88": {
+        "name": "General",
+        "description": "Default Channel",
+        "type": "Default",
+        "expires": "-1",
+        "owner": "system",
+        "created_at": "-1",
+        "updated_at": "-1"
+    },
+    "1a3b7c9d-2e4f-5a6b-8c7d-9e0f4a2b6c3d": {
+        "name": "Tech Talk",
+        "description": "Discuss all things tech!",
+        "type": "Discussion",
+        "expires": "-1",
+        "owner": "admin",
+        "created_at": "2025-01-10T12:00:00Z",
+        "updated_at": "2025-01-15T15:00:00Z"
+    },
+    "8d3f4a5c-6b7e-8c9d-0f1a-2b3c4d5e6f7a": {
+        "name": "Gaming",
+        "description": "Share your favorite games and tips.",
+        "type": "Hobby",
+        "expires": "2025-02-01T00:00:00Z",
+        "owner": "user123",
+        "created_at": "2025-01-05T18:30:00Z",
+        "updated_at": "2025-01-15T18:45:00Z"
+    },
+    "7b6c5d4e-3f2a-1e0d-9c8b-7a6b5c4d3e2f": {
+        "name": "Announcements",
+        "description": "Important updates and news.",
+        "type": "Default",
+        "expires": "-1",
+        "owner": "system",
+        "created_at": "2025-01-01T00:00:00Z",
+        "updated_at": "2025-01-16T10:00:00Z"
+    },
+    "0e9d8c7b-6a5f-4e3c-2b1a-0d9f8c7b6a5f": {
+        "name": "Art & Design",
+        "description": "Showcase your creativity.",
+        "type": "Hobby",
+        "expires": "2025-03-01T00:00:00Z",
+        "owner": "artist_42",
+        "created_at": "2025-01-08T14:00:00Z",
+        "updated_at": "2025-01-14T12:00:00Z"
+    },
+    "3f2a1e0d-9c8b-7a6b-5c4d-3e2f1a0d9c8b": {
+        "name": "Book Club",
+        "description": "Discuss your favorite books.",
+        "type": "Discussion",
+        "expires": "-1",
+        "owner": "bookworm",
+        "created_at": "2025-01-09T20:30:00Z",
+        "updated_at": "2025-01-16T19:00:00Z"
+    }
+}
